@@ -1,7 +1,8 @@
-NBA Player Sorter
+## NBA Player Sorter
+
 This Java program sorts NBA players by their points per game and includes two additional features for filtering and displaying the top scorer.
 
-Features
+### Features
 1. Sort Players by Points Per Game
 The main feature of this program is to sort NBA players by their points per game (PPG) in descending order. This makes it easy to see who is performing best in terms of scoring.
 
@@ -25,7 +26,7 @@ Usage: To use this feature, call displayTopScorer with an array of players. The 
 Example:
 displayTopScorer(players);
 
-How to Run
+## How to Run
 
 Clone the repository:
 git clone https://github.com/your-username/NBAPlayerSorter.git
