@@ -18,6 +18,7 @@ public class Main {
         }
     }
 
+    // this method filters players with points per game above a certain range
     public static void filterPlayersAboveThreshold(Player[] players, double threshold) {
         System.out.println("\nPlayers with points per game above " + threshold + ":");
         for (Player player : players) {
